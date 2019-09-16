@@ -25,7 +25,7 @@
 
         echo "Roses are $color <br>";
         echo "$pluralNoun are blue <br>";
-        echo "I love $celebrity";
+        echo "I love $celebrity"; 
     
     
     ?> 
